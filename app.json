@@ -14,7 +14,7 @@
     },
     "LANGUAGE": {
       "description": "Your default bot language",
-      "value": "",
+      "value": "fr",
       "required": false
     }
   }
